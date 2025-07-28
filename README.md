@@ -52,9 +52,7 @@ Make sure the Java JDK is installed and added to your system's PATH variable.
 
 To compile your `.java` file, use the `javac` (Java Compiler) command in Command Prompt:
 
-```bash
-javac YourFileName.java
----
+      javac YourFileName.java
 
 📌 Note: Replace YourFileName.java with the actual file name (it must match the public class name inside the file).
 
@@ -66,3 +64,4 @@ Once your code is successfully compiled, you can run the Java program using the 
 
 ```bash
 java YourFileName
+---
